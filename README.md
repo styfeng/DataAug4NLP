@@ -1,6 +1,6 @@
 # Data Augmentation Techniques for NLP 
 
-If you'd like to add your paper, do not email us. Instead, send a pull request.
+If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
 
 ### Text Classification
 | Dataset | Paper | 
