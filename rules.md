@@ -2,9 +2,9 @@
 
 Format your paper as the following:
 
-| Dataset | Paper | 
+| Paper |  Dataset |
 | -- | -- | 
-| GLUE | Best data augmentation technique [(ACL '27)](https://github.com/styfeng/DataAug4NLP/) [code](https://github.com/styfeng/DataAug4NLP/) | 
+| Best data augmentation technique [(ACL '27)](https://github.com/styfeng/DataAug4NLP/) [code](https://github.com/styfeng/DataAug4NLP/) |  GLUE |
 
 Specifically:
 
