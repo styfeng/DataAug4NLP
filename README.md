@@ -3,18 +3,18 @@
 If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
 
 ### Text Classification
-| Dataset | Paper | 
+| Paper | Dataset | 
 | -- | --- |
-| AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) |
+| Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | 
 
 
 ### Translation
 
 ### Compositionality
-| Dataset | Paper | 
+| Paper | Datset | 
 | -- | --- |
-| SCAN | Good-enough compositional data augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) |
-| SCAN | Sequence-level mixed sample data augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) |
+| Good-enough compositional data augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
+| Sequence-level mixed sample data augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | SCAN |
 
 ### Papers by the authors of this repository
 
