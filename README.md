@@ -1,5 +1,6 @@
-# DataAug4NLP
-Collection of papers and resources for data augmentation for NLP.
+# Data Augmentation Techniques for NLP 
+
+If you'd like to add your paper, do not email us. Instead, send a pull request.
 
 ### Text Classification
 | Dataset | Paper | 
@@ -8,9 +9,6 @@ Collection of papers and resources for data augmentation for NLP.
 
 
 ### Translation
-
-
-### 
 
 ### Compositionality
 | Dataset | Paper | 
