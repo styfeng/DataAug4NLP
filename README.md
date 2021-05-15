@@ -5,7 +5,7 @@ If you'd like to add your paper, do not email us. Instead, send a pull request.
 ### Text Classification
 | Dataset | Paper | 
 | -- | --- |
-| AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15]((https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) |
+| AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) |
 
 
 ### Translation
