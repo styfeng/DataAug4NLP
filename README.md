@@ -14,7 +14,7 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 | Dataset | Paper | 
 | -- | --- |
 | SCAN | Good-enough compositional data augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) |
-| SCAN | Sequence-level mixed sample data augmentation [(EMNLP '20)](https://arxiv.org/abs/2011.09039) [code](https://github.com/dguo98/seqmix) |
+| SCAN | Sequence-level mixed sample data augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) |
 
 ### Papers by the authors of this repository
 
