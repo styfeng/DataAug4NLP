@@ -17,8 +17,3 @@ Specifically:
 
 The only exception to this format is if your paper title is not about data augmentation, but it is well-known for doing data augmentation. 
 This should follow the first example under text classification called `Synonym Replacement`.  
-
-## Note from authors to authors 
-The purpose of this repo is to clarify the landscape of data aug techniques in NLP. This can get muddied with promoting our own work.
-Thus, to disentangle the two, I think we should list work that includes any of the authors in a section at the very end. 
-This will let readers know that we have not sorted the papers in such a way that our own work is prioritized. 
