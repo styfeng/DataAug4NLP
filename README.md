@@ -2,7 +2,7 @@
 
 If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
 
-We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [few-shot learning](#few-shot-learning), [mitigating bias](#mitigating-bias), [class imbalance](#class-imbalance), [adversarial examples](#adversarial-examples).
+We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [few-shot learning](#few-shot-learning), [mitigating bias](#mitigating-bias), [class imbalance](#class-imbalance), and [adversarial examples](#adversarial-examples).
 
 This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](http://arxiv.org/abs/2105.03075). You can cite it as follows:
 ```
