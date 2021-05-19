@@ -9,7 +9,7 @@ Format your paper as the following:
 Specifically:
 
 - Only include the title of the paper.
-- Only capitalize the first word in the title. 
+- Capitalize all important words in the title.
 - Include the conference in parenthesis, with a link to the paper. Use ACL Anthology if possible. Abbreviate if it's a workshop paper. You could also use the arxiv link (e.g., for AAAI, this might be a good idea). If your paper is arxiv-only, just put 'arxiv'.
 - Use '27 instead of 2027. 
 - Include the code if you have it.
