@@ -29,6 +29,11 @@ This repository is based on our paper, ["A survey of data augmentation approache
 | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | IWSLT'14 | 
 | Textual Data Augmentation for Efficient Active Learning on Tiny Datasets [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.600/) | SST2, TREC |
 
+### Natural Language Generation
+
+| Paper | Datasets | 
+| -- | --- |
+
 ### Translation
 
 | Paper | Datasets | 
@@ -67,8 +72,6 @@ This repository is based on our paper, ["A survey of data augmentation approache
 https://www.aclweb.org/anthology/2020.emnlp-main.107/ (lol does this fall under parsing? -jason)
 
 ### Grammatical Error Correction
-
-### Generation
 
 ### Dialogue
 
