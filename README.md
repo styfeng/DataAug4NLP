@@ -15,7 +15,7 @@ This repository is based on our paper, ["A survey of data augmentation approache
 }
 ```
 
-# Text Classification
+### Text Classification
 | Paper | Dataset | 
 | -- | --- |
 | Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | 
@@ -38,9 +38,23 @@ This repository is based on our paper, ["A survey of data augmentation approache
 | Soft Contextual Data Augmentation for Neural Machine Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1555/) [code](https://github.com/teslacool/SCA) | IWSLT '14 de/es/he-en, WMT '14 en-de | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | IWSLT'14 | 
 
 
+# Question Answering
+
+| Paper | Dataset | 
+| -- | --- |
+| An Exploration of Data Augmentation and Sampling Techniques for Domain-Agnostic Question Answering [(EMNLP '19 Workshop)](https://www.aclweb.org/anthology/D19-5829/) | MRQA| 
+| Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering [(arxiv)](https://arxiv.org/abs/1904.06652) | SQuAD, Trivia-QA, CMRC, DRCD | 
+| Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering [(arxiv)](https://arxiv.org/abs/2010.12643) | MLQA, XQuAD, SQuAD-it, PIAF | 
+| XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering [(arxiv)](https://openreview.net/forum?id=BJgAf6Etwr) | XNLI, SQuAD | Logic-Guided Data Augmentation and Regularization for Consistent Question Answering [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.499/)[code](https://github.com/AkariAsai/logic_guided_qa) | WIQA, QuaRel, HotpotQA | 
+
 # Summarization
 
-# Question Answering
+| Paper | Dataset | 
+| -- | --- |
+| Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation [(NAACL '21)](https://arxiv.org/abs/2010.12836) | CNN-DailyMail | 
+| Iterative Data Augmentation with Synthetic Data (Abstract Text Summarization: A Low Resource Challenge [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1616/) | Swisstext, commoncrawl | 
+| Transforming Wikipedia into Augmented Data for Query-Focused Summarization [(arxiv)](https://arxiv.org/abs/1911.03324) | DUC |
+
 
 # Sequence Tagging
 
