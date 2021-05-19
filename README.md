@@ -98,6 +98,6 @@ https://www.aclweb.org/anthology/2020.emnlp-main.107/ (lol does this fall under 
 To provide an unbiased list of work, we do not include our own work above and instead show it below: 
 
 - Keep calm and switch on! Preserving sentiment and fluency in semantic text exchange [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1272/)
-- EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks [(EMNLP '19)](http://dx.doi.org/10.18653/v1/D19-1670)
+- EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [(EMNLP '19)](http://dx.doi.org/10.18653/v1/D19-1670)
 - Text Augmentation in a Multi-Task View [(EACL '21)](https://www.aclweb.org/anthology/2021.eacl-main.252/)
 - Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552)
