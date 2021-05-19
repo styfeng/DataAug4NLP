@@ -1,10 +1,10 @@
 # Data Augmentation Techniques for NLP 
 
-If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.#text-classification
+If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
 
-We group the papers by [Text Classification](#text-classification)
+We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [few-shot learning](#few-shot-learning), [mitigating bias](#mitigating-bias), [class imbalance](#class-imbalance), [adversarial examples](#adversarial-examples).
 
-This repository is based on our data augmentation survey paper, ["A survey of data augmentation approaches in NLP."](http://arxiv.org/abs/2105.03075) Our work can be cited as follows: 
+This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](http://arxiv.org/abs/2105.03075). You can cite it as follows:
 ```
 @article{feng2021survey,
   title={A Survey of Data Augmentation Approaches for NLP},
@@ -13,6 +13,8 @@ This repository is based on our data augmentation survey paper, ["A survey of da
   year={2021}
 }
 ```
+
+
 
 # Text Classification
 | Paper | Dataset | 
@@ -31,9 +33,7 @@ This repository is based on our data augmentation survey paper, ["A survey of da
 
 # Grammatical Error Correction
 
-# Struct-to-text Generation
-
-# Conditional Generation
+# Generation
 
 # Dialogue
 
@@ -54,7 +54,9 @@ This repository is based on our data augmentation survey paper, ["A survey of da
 | Good-enough compositional data augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
 | Sequence-level mixed sample data augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | SCAN |
 
-### Papers by the authors of this repository
+# Papers by the authors of this repository
+
+To provide an unbiased list of work, we do not include our own work above and instead show it below: 
 
 - Keep calm and switch on! Preserving sentiment and fluency in semantic text exchange [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1272/)
 - EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks [(EMNLP '19)](http://dx.doi.org/10.18653/v1/D19-1670)
