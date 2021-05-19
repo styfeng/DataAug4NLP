@@ -83,6 +83,11 @@ https://www.aclweb.org/anthology/2020.emnlp-main.107/ (lol does this fall under 
 | Using  Wikipedia  Edits  in  Low Resource Grammatical Error Correction.   [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
 | Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting   [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 GEC, JFLEG GEC |
 | SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation   [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1100.pdf) | IWSLT 16 en-vi, IWSLT 15 de-en, WMT en-de |
+| Neural Grammatical Error Correction  Systems  with  Unsupervised  Pre-training on Synthetic Data. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4427) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task) |
+| A neural grammatical error cor-rection  system  built  on  better  pre-training  and  se-quential  transfer  learning. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4423) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task), Gutenberg, Tatoeba, WikiText-103 (Pretraining) |
+| Improving  Grammatical  Error  Correction with  Data  Augmentation  by  Editing  Latent  Representation [COLING'20](https://doi.org/10.18653/v1/2020.coling-main.200) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task)  |
+| Noising and Denoising Natural Language:  Diverse Backtranslation for Grammar  Correction. [NAACL'18](https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CONLL 2014, CONLL 2013, JFLEG |
+
 
 ### Dialogue
 
