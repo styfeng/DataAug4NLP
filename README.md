@@ -82,7 +82,7 @@ https://www.aclweb.org/anthology/2020.emnlp-main.107/ (lol does this fall under 
 | -- | --- |
 | Using  Wikipedia  Edits  in  Low Resource Grammatical Error Correction.   [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
 | Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting   [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 GEC, JFLEG GEC |
-
+| SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation   [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1100.pdf) | IWSLT 16 en-vi, IWSLT 15 de-en, WMT en-de |
 
 ### Dialogue
 
