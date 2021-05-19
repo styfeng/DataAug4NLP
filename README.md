@@ -1,37 +1,54 @@
 # Data Augmentation Techniques for NLP 
 
-If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.
+If you'd like to add your paper, do not email us. Instead, read the protocol for [adding a new entry](https://github.com/styfeng/DataAug4NLP/blob/main/rules.md) and send a pull request.#text-classification
 
-### Text Classification
+We group the papers by [Text Classification](#text-classification)
+
+This repository is based on our data augmentation survey paper, ["A survey of data augmentation approaches in NLP."](http://arxiv.org/abs/2105.03075) Our work can be cited as follows: 
+```
+@article{feng2021survey,
+  title={A Survey of Data Augmentation Approaches for NLP},
+  author={Feng, Steven Y and Gangal, Varun and Wei, Jason and Chandar, Sarath and Vosoughi, Soroush and Mitamura, Teruko and Hovy, Eduard},
+  journal={Findings of ACL},
+  year={2021}
+}
+```
+
+# Text Classification
 | Paper | Dataset | 
 | -- | --- |
 | Synonym Replacement (Character-level convolutional networks for text classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | 
 
-### Translation
+# Translation
 
-### Summarization
+# Summarization
 
-### Question Answering
+# Question Answering
 
-### Sequence Tagging
+# Sequence Tagging
 
-### Parsing
+# Parsing
 
-### Grammatical Error Correction
+# Grammatical Error Correction
 
-### Struct-to-text Generation
+# Struct-to-text Generation
 
-### Conditional Generation
+# Conditional Generation
 
-### Dialogue
+# Dialogue
 
-### Multimodal
+# Multimodal
 
-### Few-shot learning
+# Few-shot learning
 
-### Mitigating Bias
+# Mitigating Bias
 
-### Compositionality
+# Class Imbalance
+
+# Adversarial examples
+
+# Compositionality
+
 | Paper | Datset | 
 | -- | --- |
 | Good-enough compositional data augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
