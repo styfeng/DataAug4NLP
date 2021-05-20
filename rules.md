@@ -4,7 +4,7 @@ Format your paper as the following:
 
 | Paper |  Dataset |
 | -- | -- | 
-| Best data augmentation technique [(ACL '27)](https://github.com/styfeng/DataAug4NLP/) [code](https://github.com/styfeng/DataAug4NLP/) |  GLUE |
+| Best Data Augmentation Technique [(ACL '27)](https://github.com/styfeng/DataAug4NLP/) [code](https://github.com/styfeng/DataAug4NLP/) |  GLUE |
 
 Specifically:
 
