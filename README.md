@@ -14,6 +14,7 @@ This repository is based on our paper, ["A survey of data augmentation approache
   year={2021}
 }
 ```
+Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
 
 ### Text Classification
 | Paper | Datasets | 
