@@ -16,8 +16,8 @@ This repository is based on our paper, ["A survey of data augmentation approache
 ```
 Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
 
-Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">Steven Y. Feng</a>*,
-			  <a href="https://scholar.google.com/citations?user=rWZq2nQAAAAJ&hl=en">Varun Gangal</a>*,
+Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">Steven Y. Feng</a>,
+			  <a href="https://scholar.google.com/citations?user=rWZq2nQAAAAJ&hl=en">Varun Gangal</a>,
 			  <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en">Jason Wei</a>,
 			  <a href="https://scholar.google.co.in/citations?user=yxWtZLAAAAAJ&hl=en">Sarath Chandar</a>,
 			  <a href="https://scholar.google.ca/citations?user=45DAXkwAAAAJ&hl=en">Soroush Vosoughi</a>,
