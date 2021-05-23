@@ -47,7 +47,7 @@ Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an iss
 
 | Paper | Datasets | 
 | -- | --- |
-| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | This paper is legit, why dind't you go for main conf? so many datasets / evals -Jason | 
+| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | TO-DO | 
 
 ### Translation
 
@@ -84,7 +84,7 @@ Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an iss
 | Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1545.pdf) [code](https://github.com/gozdesahin/crop-rotate-augment) | universal dependencies project | 
 
 ### Parsing
-https://www.aclweb.org/anthology/2020.emnlp-main.107/ (lol does this fall under parsing? -jason)
+TODO: https://www.aclweb.org/anthology/2020.emnlp-main.107/
 
 ### Grammatical Error Correction
 | Paper | Datasets | 
