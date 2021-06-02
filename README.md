@@ -23,7 +23,8 @@ Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">S
 			  <a href="https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en">Eduard Hovy</a>
 
 Note: WIP. More papers will be added from our survey paper to this repo over the next month or so.
-Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
+
+Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
 
 ### Text Classification
 | Paper | Datasets | 
