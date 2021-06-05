@@ -29,7 +29,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Text Classification
 | Paper | Datasets | 
 | -- | --- |
-| Unsupervised Word Sense Disambiguation Rivaling Supervised Methods , [ACL '95](https://www.aclweb.org/anthology/P95-1026.pdf)) | Paper-Specific/Legacy Corpus | 
+| Unsupervised Word Sense Disambiguation Rivaling Supervised Methods , ([ACL '95](https://www.aclweb.org/anthology/P95-1026.pdf)) | Paper-Specific/Legacy Corpus | 
 | Synonym Replacement (Character-Level Convolutional Networks for Text Classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | AG’s News, DBPedia, Yelp, Yahoo Answers, Amazon | 
 | That’s So Annoying!!!: A Lexical and Frame-Semantic Embedding Based Data Augmentation Approach to Automatic Categorization of Annoying Behaviors using #petpeeve Tweets [(EMNLP '15)](https://www.aclweb.org/anthology/D15-1306.pdf) | twitter| 
 | Robust Training under Linguistic Adversity [(EACL '17)](https://www.aclweb.org/anthology/E17-2004/) [code](https://github.com/lrank/Linguistic_adversity) | Movie review, customer review, SUBJ, SST | 
