@@ -50,7 +50,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datasets | 
 | -- | --- |
-| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | TO-DO | 
+| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | Yelp | 
 
 ### Translation
 
@@ -108,7 +108,10 @@ TO-DO
 TO-DO
 
 ### Mitigating Bias
-TO-DO
+| Paper | Datasets | 
+| -- | --- |
+| Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [NAACL '18](https://www.aclweb.org/anthology/N18-2003/) | TODO |
+| Gender Bias in Neural Natural Language Processing. [Springer '20](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14) | TODO |
 
 ### Mitigating Class Imbalance
 TO-DO
