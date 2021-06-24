@@ -46,16 +46,6 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Text Augmentation in a Multi-Task View [(EACL '21)](https://www.aclweb.org/anthology/2021.eacl-main.252/) | SST2, TREC, SUBJ | 
 | Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552) [code](https://github.com/jasonwei20/triplet-loss) | HUFF, COV-Q, AMZN, FEWREL | 
 
-### Natural Language Generation
-
-| Paper | Datasets | 
-| -- | --- |
-| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | Yelp | 
-| Findings of the Third Workshop on Neural Generation and Translation [(WNGT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5601/) | TODO | 
-| Denoising Pre-Training and Data Augmentation Strategies for Enhanced RDF Verbalization with Transformers [(WebNLG+ @ INLG '20)](https://www.aclweb.org/anthology/2020.webnlg-1.9/) | TODO | 
-| TNT-NLG, System 2: Data repetition and meaning representation manipulation to improve neural generation [(E2E NLG Challenge System Descriptions)](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-TNT_NLG2.pdf) | TODO | 
-| A Good Sample is Hard to Find: Noise Injection Sampling and Self-Training for Neural Language Generation Models [(INLG '19)](https://www.aclweb.org/anthology/W19-8672/) | TODO | 
-
 
 ### Translation
 
@@ -87,6 +77,15 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Syntax-aware Data Augmentation for Neural Machine Translation [(arxiv '20)](https://arxiv.org/abs/2004.14200) | TODO | 
 
 
+### Summarization
+
+| Paper | Datasets | 
+| -- | --- |
+| Transforming Wikipedia into Augmented Data for Query-Focused Summarization [(arxiv '19)](https://arxiv.org/abs/1911.03324) | DUC |
+| Iterative Data Augmentation with Synthetic Data (Abstract Text Summarization: A Low Resource Challenge [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1616/) | Swisstext, commoncrawl | 
+| Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation [(NAACL '21)](https://arxiv.org/abs/2010.12836) | CNN-DailyMail | 
+| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) | TODO | 
+
 ### Question Answering
 
 | Paper | Datasets | 
@@ -97,15 +96,6 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering [(arxiv '20)](https://arxiv.org/abs/2010.12643) | MLQA, XQuAD, SQuAD-it, PIAF | 
 | Logic-Guided Data Augmentation and Regularization for Consistent Question Answering [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.499/) [code](https://github.com/AkariAsai/logic_guided_qa) | WIQA, QuaRel, HotpotQA | 
 | QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [(ICLR '18)](https://openreview.net/forum?id=B14TlG-RW) | TODO |
-
-### Summarization
-
-| Paper | Datasets | 
-| -- | --- |
-| Transforming Wikipedia into Augmented Data for Query-Focused Summarization [(arxiv '19)](https://arxiv.org/abs/1911.03324) | DUC |
-| Iterative Data Augmentation with Synthetic Data (Abstract Text Summarization: A Low Resource Challenge [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1616/) | Swisstext, commoncrawl | 
-| Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation [(NAACL '21)](https://arxiv.org/abs/2010.12836) | CNN-DailyMail | 
-| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) | TODO | 
 
 
 ### Sequence Tagging
@@ -145,6 +135,16 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Erroneous data generation for Grammatical Error Correction [(BEA @ ACL '19)](https://www.aclweb.org/anthology/W19-4415/)  | TODO |
 | Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002)  | TODO |
 | Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners [(IJCNLP '11)](https://www.aclweb.org/anthology/I11-1017/)  | TODO |
+
+### Generation
+
+| Paper | Datasets | 
+| -- | --- |
+| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | Yelp | 
+| Findings of the Third Workshop on Neural Generation and Translation [(WNGT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5601/) | TODO | 
+| Denoising Pre-Training and Data Augmentation Strategies for Enhanced RDF Verbalization with Transformers [(WebNLG+ @ INLG '20)](https://www.aclweb.org/anthology/2020.webnlg-1.9/) | TODO | 
+| TNT-NLG, System 2: Data repetition and meaning representation manipulation to improve neural generation [(E2E NLG Challenge System Descriptions)](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-TNT_NLG2.pdf) | TODO | 
+| A Good Sample is Hard to Find: Noise Injection Sampling and Self-Training for Neural Language Generation Models [(INLG '19)](https://www.aclweb.org/anthology/W19-8672/) | TODO | 
 
 ### Dialogue
 | Paper | Datasets | 
