@@ -117,7 +117,6 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Improving  Grammatical  Error  Correction with  Data  Augmentation  by  Editing  Latent  Representation [(COLING'20)](https://doi.org/10.18653/v1/2020.coling-main.200) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task)  |
 | Noising and Denoising Natural Language:  Diverse Backtranslation for Grammar  Correction. [(NAACL'18)](https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG |
 | Corpora Generation for Grammatical Error Correction [(NAACL'19)](https://doi.org/10.18653/v1/N19-1333)  | CoNLL-2014, JFLEG, Lang-8 |
-(https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG |
 | A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction [(BEA @ ACL '20)](https://www.aclweb.org/anthology/2020.bea-1.21/)  | TODO |
 | A syntactic rule-based framework for parallel data synthesis in Japanese GEC [(MIT Thesis '20)](https://dspace.mit.edu/handle/1721.1/127416)  | TODO |
 | Artificial error generation for translation-based grammatical error correction [(University of Cambridge Technical Report)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-895.pdf)  | TODO |
