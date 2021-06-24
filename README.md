@@ -141,7 +141,16 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Data Augmentation for Copy-Mechanism in Dialogue State Tracking [(arxiv '20)](https://arxiv.org/abs/2002.09634) | TODO |
 
 ### Multimodal
-TO-DO
+| Paper | Datasets | 
+| -- | --- |
+| Data Augmentation for Training Dialog Models Robust to Speech Recognition Errors [(NLP for ConvAI @ ACL '20)](https://arxiv.org/abs/2006.05635) | TODO |
+| Low Resource Multi-modal Data Augmentation for End-to-end ASR [(CoRR)](https://deepai.org/publication/low-resource-multi-modal-data-augmentation-for-end-to-end-asr) | TODO |
+| Multi-Modal Data Augmentation for End-to-end ASR [(Interspeech '18)](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2456.html) | TODO |
+| MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks [(IEEE Intelligent Systems '20)](https://ieeexplore.ieee.org/document/9206007) | TODO |
+| Text Augmentation Using BERT for Image Captioning [(Applied Sciences '20)](https://www.mdpi.com/2076-3417/10/17/5978) | TODO |
+| Data Augmentation for Visual Question Answering [(INLG '17)](https://www.aclweb.org/anthology/W17-3529/) | TODO |
+| Augmenting Image Question Answering Dataset by Exploiting Image Captions [(LREC '18)](https://www.aclweb.org/anthology/L18-1436/) | TODO |
+| Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering [(ECCV '20)](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_26) | TODO |
 
 ### Mitigating Bias
 | Paper | Datasets | 
