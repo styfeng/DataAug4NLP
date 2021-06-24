@@ -109,14 +109,21 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Grammatical Error Correction
 | Paper | Datasets | 
 | -- | --- |
-| Using  Wikipedia  Edits  in  Low Resource Grammatical Error Correction.   [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
-| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting   [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 , JFLEG  |
-| SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation   [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1100.pdf) | IWSLT 16 en-vi, IWSLT 15 de-en, WMT en-de |
+| Using  Wikipedia  Edits  in  Low Resource Grammatical Error Correction. [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
+| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 , JFLEG  |
+| Controllable Data Synthesis Method for Grammatical Error Correction [(arxiv '19)](https://arxiv.org/abs/1909.13302) | TODO |
 | Neural Grammatical Error Correction  Systems  with  Unsupervised  Pre-training on Synthetic Data. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4427) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task) |
 | A neural grammatical error cor-rection  system  built  on  better  pre-training  and  se-quential  transfer  learning. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4423) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task), Gutenberg, Tatoeba, WikiText-103 (Pretraining) |
 | Improving  Grammatical  Error  Correction with  Data  Augmentation  by  Editing  Latent  Representation [(COLING'20)](https://doi.org/10.18653/v1/2020.coling-main.200) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task)  |
 | Noising and Denoising Natural Language:  Diverse Backtranslation for Grammar  Correction. [(NAACL'18)](https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG |
 | Corpora Generation for Grammatical Error Correction [(NAACL'19)](https://doi.org/10.18653/v1/N19-1333)  | CoNLL-2014, JFLEG, Lang-8 |
+(https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG |
+| A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction [(BEA @ ACL '20)](https://www.aclweb.org/anthology/2020.bea-1.21/)  | TODO |
+| A syntactic rule-based framework for parallel data synthesis in Japanese GEC [(MIT Thesis '20)](https://dspace.mit.edu/handle/1721.1/127416)  | TODO |
+| Artificial error generation for translation-based grammatical error correction [(University of Cambridge Technical Report)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-895.pdf)  | TODO |
+| Erroneous data generation for Grammatical Error Correction [(BEA @ ACL '19)](https://www.aclweb.org/anthology/W19-4415/)  | TODO |
+| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002)  | TODO |
+| Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners [(IJCNLP '11)](https://www.aclweb.org/anthology/I11-1017/)  | TODO |
 
 ### Dialogue
 TO-DO
