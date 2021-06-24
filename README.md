@@ -110,8 +110,11 @@ TO-DO
 ### Mitigating Bias
 | Paper | Datasets | 
 | -- | --- |
-| Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [NAACL '18](https://www.aclweb.org/anthology/N18-2003/) | TODO |
-| Gender Bias in Neural Natural Language Processing. [Springer '20](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14) | TODO |
+| Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [(NAACL '18)](https://www.aclweb.org/anthology/N18-2003/) | TODO |
+| Gender Bias in Neural Natural Language Processing. [(Springer '20)](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14) | TODO |
+| Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [(ACL '19)](https://www.aclweb.org/anthology/P19-1161/) | TODO |
+| It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1530/) | TODO |
+| Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | TODO |
 
 ### Mitigating Class Imbalance
 TO-DO
