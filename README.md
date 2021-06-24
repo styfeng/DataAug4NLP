@@ -117,7 +117,12 @@ TO-DO
 | Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | TODO |
 
 ### Mitigating Class Imbalance
-TO-DO
+| Paper | Datasets | 
+| -- | --- |
+| SMOTE: Synthetic Minority Over-sampling Technique [(Journal of Artificial Intelligence Research '02)](https://www.jair.org/index.php/jair/article/view/10302) | TODO |
+| SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary [(Journal of Artificial Intelligence Research '18)](https://www.jair.org/index.php/jair/article/view/11192) | TODO |
+| MLSMOTE: Approaching imbalanced multilabel learning through synthetic instance generation [(Knowledge-Based Systems '15)](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737?via%3Dihub) | TODO |
+| Active Learning for Word Sense Disambiguation with Methods for Addressing the Class Imbalance Problem [(EMNLP '07)](https://www.aclweb.org/anthology/D07-1082/) | TODO |
 
 ### Adversarial examples
 
