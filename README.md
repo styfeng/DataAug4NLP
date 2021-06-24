@@ -135,6 +135,10 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding [(Student Research Workshop @ NAACL '19)](https://www.aclweb.org/anthology/N19-3014/) | TODO |
 | Data Augmentation with Atomic Templates for Spoken Language Understanding [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1375/) | TODO |
 | Data Augmentation for Spoken Language Understanding via Joint Variational Generation [(AAAI '19)](https://ojs.aaai.org/index.php/AAAI/article/view/4729) | TODO |
+| Paraphrase Augmented Task-Oriented Dialog Generation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.60/) | TODO |
+| Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management [(TACL '21)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00352/97777/Conversation-Graph-Data-Augmentation-Training-and) | TODO |
+| Dialog State Tracking with Reinforced Data Augmentation [(AAAI '20)](https://ojs.aaai.org/index.php/AAAI/article/view/6491) | TODO |
+| Data Augmentation for Copy-Mechanism in Dialogue State Tracking [(arxiv '20)](https://arxiv.org/abs/2002.09634) | TODO |
 
 ### Multimodal
 TO-DO
