@@ -126,7 +126,15 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners [(IJCNLP '11)](https://www.aclweb.org/anthology/I11-1017/)  | TODO |
 
 ### Dialogue
-TO-DO
+| Paper | Datasets | 
+| -- | --- |
+| Effective Data Augmentation Approaches to End-to-End Task-Oriented Dialogue [(IALP '19)](https://ieeexplore.ieee.org/document/9037690) | TODO |
+| Simple is Better! Lightweight Data Augmentation for Low Resource Slot Filling and Intent Classification [(PACLIC '20)](https://www.aclweb.org/anthology/2020.paclic-1.20/) | TODO |
+| Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding [(COLING '18)](https://www.aclweb.org/anthology/C18-1105/) | TODO |
+| Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context [(arxiv '19)](https://arxiv.org/abs/1911.10484) | TODO |
+| Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding [(Student Research Workshop @ NAACL '19)](https://www.aclweb.org/anthology/N19-3014/) | TODO |
+| Data Augmentation with Atomic Templates for Spoken Language Understanding [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1375/) | TODO |
+| Data Augmentation for Spoken Language Understanding via Joint Variational Generation [(AAAI '19)](https://ojs.aaai.org/index.php/AAAI/article/view/4729) | TODO |
 
 ### Multimodal
 TO-DO
