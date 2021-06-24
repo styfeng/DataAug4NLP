@@ -85,6 +85,9 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Paper | Datasets | 
 | -- | --- |
 | Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1545.pdf) [code](https://github.com/gozdesahin/crop-rotate-augment) | universal dependencies project | 
+| DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.488/) | TODO |
+| An Analysis of Simple Data Augmentation for Named Entity Recognition [(COLING '20)](https://www.aclweb.org/anthology/2020.coling-main.343/) | TODO |
+| SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.691/) | TODO |
 
 ### Parsing
 TODO: https://www.aclweb.org/anthology/2020.emnlp-main.107/
