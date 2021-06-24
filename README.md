@@ -90,10 +90,14 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.691/) | TODO |
 
 ### Parsing
+| Paper | Datasets | 
+| -- | --- |
 | Named Entity Recognition for Social Media Texts with Semantic Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.107/) | TODO |
 | Data Recombination for Neural Semantic Parsing [(ACL '16)](https://www.aclweb.org/anthology/P16-1002/) | TODO |
 | GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing [(ICLR '21)](https://openreview.net/forum?id=kyaIeYj4zZ) | TODO |
 | Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676/) | TODO |
+| A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1102/) | TODO |
+
 
 ### Grammatical Error Correction
 | Paper | Datasets | 
