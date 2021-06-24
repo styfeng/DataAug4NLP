@@ -151,6 +151,9 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Data Augmentation for Visual Question Answering [(INLG '17)](https://www.aclweb.org/anthology/W17-3529/) | TODO |
 | Augmenting Image Question Answering Dataset by Exploiting Image Captions [(LREC '18)](https://www.aclweb.org/anthology/L18-1436/) | TODO |
 | Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering [(ECCV '20)](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_26) | TODO |
+| Multimodal Continuous Emotion Recognition with Data Augmentation Using Recurrent Neural Networks [(AVEC '18)](https://dl.acm.org/doi/10.1145/3266302.3266304) | TODO |
+| Multimodal Dialogue State Tracking By QA Approach with Data Augmentation [(DSTC8 @ AAAI '20)](https://arxiv.org/abs/2007.09903) | TODO |
+| Data augmentation techniques for the Video Question Answering task [(arxiv '20)](https://arxiv.org/abs/2008.09849) | TODO |
 
 ### Mitigating Bias
 | Paper | Datasets | 
