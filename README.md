@@ -222,3 +222,4 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 - [A visual survey of data augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [nlpaug](https://github.com/makcedward/nlpaug)
 - [TextAttack](https://github.com/QData/TextAttack)
+- [AugLy](https://github.com/facebookresearch/AugLy)
