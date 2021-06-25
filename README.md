@@ -210,6 +210,14 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
 | Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | SCAN | 
 
+### Automated Augmentation
+
+| Paper                                                        | Datsets                     |
+| ------------------------------------------------------------ | --------------------------- |
+| Learning Data Manipulation for Augmentation and Weighting [(NeurIPS '19)](https://papers.nips.cc/paper/2019/file/671f0311e2754fcdd37f70a8550379bc-Paper.pdf) [code](https://github.com/tanyuqian/learning-data-manipulation) | SST, IMDB, TREC, CIFAR-10   |
+| Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.564.pdf) | DailyDialog,  OpenSubtitles |
+
+
 ### Popular Resources
 - [A visual survey of data augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [nlpaug](https://github.com/makcedward/nlpaug)
