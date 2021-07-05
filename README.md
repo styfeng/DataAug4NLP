@@ -207,8 +207,8 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datsets | 
 | -- | --- |
-| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
-| Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | SCAN | 
+| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | TODO |
+| Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | TODO | 
 
 ### Automated Augmentation
 
