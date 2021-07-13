@@ -164,17 +164,17 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Multimodal
 | Paper | Datasets | 
 | -- | --- |
-| Data Augmentation for Training Dialog Models Robust to Speech Recognition Errors [(NLP for ConvAI @ ACL '20)](https://arxiv.org/abs/2006.05635) | TODO |
-| Low Resource Multi-modal Data Augmentation for End-to-end ASR [(CoRR)](https://deepai.org/publication/low-resource-multi-modal-data-augmentation-for-end-to-end-asr) | TODO |
-| Multi-Modal Data Augmentation for End-to-end ASR [(Interspeech '18)](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2456.html) | TODO |
-| MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks [(IEEE Intelligent Systems '20)](https://ieeexplore.ieee.org/document/9206007) | TODO |
-| Text Augmentation Using BERT for Image Captioning [(Applied Sciences '20)](https://www.mdpi.com/2076-3417/10/17/5978) | TODO |
-| Data Augmentation for Visual Question Answering [(INLG '17)](https://www.aclweb.org/anthology/W17-3529/) | TODO |
-| Augmenting Image Question Answering Dataset by Exploiting Image Captions [(LREC '18)](https://www.aclweb.org/anthology/L18-1436/) | TODO |
-| Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering [(ECCV '20)](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_26) | TODO |
+| Data Augmentation for Visual Question Answering [(INLG '17)](https://www.aclweb.org/anthology/W17-3529/) | COCO-VQA, COCO-QA |
+| Low Resource Multi-modal Data Augmentation for End-to-end ASR [(CoRR ’18)](https://deepai.org/publication/low-resource-multi-modal-data-augmentation-for-end-to-end-asr) | TODO |
+| Multi-Modal Data Augmentation for End-to-end ASR [(Interspeech '18)](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/2456.html) | Voxforge, HUB4 |
+| Augmenting Image Question Answering Dataset by Exploiting Image Captions [(LREC '18)](https://www.aclweb.org/anthology/L18-1436/) | IQA |
 | Multimodal Continuous Emotion Recognition with Data Augmentation Using Recurrent Neural Networks [(AVEC '18)](https://dl.acm.org/doi/10.1145/3266302.3266304) | TODO |
-| Multimodal Dialogue State Tracking By QA Approach with Data Augmentation [(DSTC8 @ AAAI '20)](https://arxiv.org/abs/2007.09903) | TODO |
-| Data augmentation techniques for the Video Question Answering task [(arxiv '20)](https://arxiv.org/abs/2008.09849) | TODO |
+| Multimodal Dialogue State Tracking By QA Approach with Data Augmentation [(DSTC8 @ AAAI '20)](https://arxiv.org/abs/2007.09903) | DSTC7-AVSD |
+| Data augmentation techniques for the Video Question Answering task [(arxiv '20)](https://arxiv.org/abs/2008.09849) | TGIF-QA,  MSVD-QA |
+| Data Augmentation for Training Dialog Models Robust to Speech Recognition Errors [(NLP for ConvAI @ ACL '20)](https://arxiv.org/abs/2006.05635) | DSTC2 |
+| Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering [(ECCV '20)](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_26) | TODO |
+| Text Augmentation Using BERT for Image Captioning [(Applied Sciences '20)](https://www.mdpi.com/2076-3417/10/17/5978) | MSCOCO |
+| MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks [(IEEE Intelligent Systems '20)](https://ieeexplore.ieee.org/document/9206007) | TODO |
 
 ### Mitigating Bias
 | Paper | Datasets | 
@@ -208,7 +208,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Paper | Datsets | 
 | -- | --- |
 | Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | TODO |
-| Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | TODO | 
+| Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | IWSLT ’14, WMT ’14 | 
 
 ### Automated Augmentation
 
