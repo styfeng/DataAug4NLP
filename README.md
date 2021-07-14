@@ -149,17 +149,17 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Dialogue
 | Paper | Datasets | 
 | -- | --- |
-| Effective Data Augmentation Approaches to End-to-End Task-Oriented Dialogue [(IALP '19)](https://ieeexplore.ieee.org/document/9037690) | TODO |
-| Simple is Better! Lightweight Data Augmentation for Low Resource Slot Filling and Intent Classification [(PACLIC '20)](https://www.aclweb.org/anthology/2020.paclic-1.20/) | TODO |
-| Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding [(COLING '18)](https://www.aclweb.org/anthology/C18-1105/) | TODO |
-| Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context [(arxiv '19)](https://arxiv.org/abs/1911.10484) | TODO |
-| Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding [(Student Research Workshop @ NAACL '19)](https://www.aclweb.org/anthology/N19-3014/) | TODO |
-| Data Augmentation with Atomic Templates for Spoken Language Understanding [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1375/) | TODO |
-| Data Augmentation for Spoken Language Understanding via Joint Variational Generation [(AAAI '19)](https://ojs.aaai.org/index.php/AAAI/article/view/4729) | TODO |
-| Paraphrase Augmented Task-Oriented Dialog Generation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.60/) | TODO |
-| Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management [(TACL '21)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00352/97777/Conversation-Graph-Data-Augmentation-Training-and) | TODO |
-| Dialog State Tracking with Reinforced Data Augmentation [(AAAI '20)](https://ojs.aaai.org/index.php/AAAI/article/view/6491) | TODO |
-| Data Augmentation for Copy-Mechanism in Dialogue State Tracking [(arxiv '20)](https://arxiv.org/abs/2002.09634) | TODO |
+| Sequence-to-Sequence Data Augmentation for Dialogue Language Understanding [(COLING '18)](https://www.aclweb.org/anthology/C18-1105/) [code](https://github.com/AtmaHou/Seq2SeqDataAugmentationForLU) | ATIS, Dec94, Stanford dialogue |
+| Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context [(arxiv '19)](https://arxiv.org/abs/1911.10484) [code](https://github.com/thu-spmi/damd-multiwoz) | MultiWOZ |
+| Data Augmentation by Data Noising for Open-vocabulary Slots in Spoken Language Understanding [(Student Research Workshop @ NAACL '19)](https://www.aclweb.org/anthology/N19-3014/) | ATIS, Snips, MR |
+| Data Augmentation with Atomic Templates for Spoken Language Understanding [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1375/) [code](https://github.com/sz128/DAAT_SLU) | DSTC 2&3,  DSTC2 |
+| Data Augmentation for Spoken Language Understanding via Joint Variational Generation [(AAAI '19)](https://ojs.aaai.org/index.php/AAAI/article/view/4729) | ATIS, Snips, MIT |
+| Effective Data Augmentation Approaches to End-to-End Task-Oriented Dialogue [(IALP '19)](https://ieeexplore.ieee.org/document/9037690) | CamRest676, KVRET |
+| Paraphrase Augmented Task-Oriented Dialog Generation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.60/) [code](https://github.com/thu-spmi/PARG) | TCamRest676, MultiWOZ |
+| Dialog State Tracking with Reinforced Data Augmentation [(AAAI '20)](https://ojs.aaai.org/index.php/AAAI/article/view/6491) | WoZ,  MultiWoZ |
+| Data Augmentation for Copy-Mechanism in Dialogue State Tracking [(arxiv '20)](https://arxiv.org/abs/2002.09634) | WoZ, DSTC2, Multi |
+| Simple is Better! Lightweight Data Augmentation for Low Resource Slot Filling and Intent Classification [(PACLIC '20)](https://www.aclweb.org/anthology/2020.paclic-1.20/) [code](https://github.com/slouvan/saug) | ATIS, SNIPS, FB |
+| Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management [(TACL '21)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00352/97777/Conversation-Graph-Data-Augmentation-Training-and) | M2M, MultiWOZ |
 
 ### Multimodal
 | Paper | Datasets | 
@@ -188,10 +188,10 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Mitigating Class Imbalance
 | Paper | Datasets | 
 | -- | --- |
-| SMOTE: Synthetic Minority Over-sampling Technique [(Journal of Artificial Intelligence Research '02)](https://www.jair.org/index.php/jair/article/view/10302) | TODO |
-| SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary [(Journal of Artificial Intelligence Research '18)](https://www.jair.org/index.php/jair/article/view/11192) | TODO |
-| MLSMOTE: Approaching imbalanced multilabel learning through synthetic instance generation [(Knowledge-Based Systems '15)](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737?via%3Dihub) | TODO |
+| SMOTE: Synthetic Minority Over-sampling Technique [(Journal of Artificial Intelligence Research '02)](https://www.jair.org/index.php/jair/article/view/10302) | Pima, Phoneme, Adult, E-state, Satimage, Forest Cover, Oil, Mammography, Can |
 | Active Learning for Word Sense Disambiguation with Methods for Addressing the Class Imbalance Problem [(EMNLP '07)](https://www.aclweb.org/anthology/D07-1082/) | TODO |
+| MLSMOTE: Approaching imbalanced multilabel learning through synthetic instance generation [(Knowledge-Based Systems '15)](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737?via%3Dihub) | bibtex, cal500, corel5k, slashdot, tmc2007, mediamill, medical, scene, enron, emotions |
+| SMOTE for Learning from Imbalanced Data: Progress and Challenges, Marking the 15-year Anniversary [(Journal of Artificial Intelligence Research '18)](https://www.jair.org/index.php/jair/article/view/11192) | TODO |
 
 ### Adversarial examples
 
