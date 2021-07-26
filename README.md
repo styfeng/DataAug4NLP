@@ -84,7 +84,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Transforming Wikipedia into Augmented Data for Query-Focused Summarization [(arxiv '19)](https://arxiv.org/abs/1911.03324) | DUC |
 | Iterative Data Augmentation with Synthetic Data (Abstract Text Summarization: A Low Resource Challenge [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1616/) | Swisstext, commoncrawl | 
 | Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation [(NAACL '21)](https://arxiv.org/abs/2010.12836) | CNN-DailyMail | 
-| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) | TODO | 
+| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) [code] (https://github.com/ramakanth-pasunuru/QmdsCnnIr) | QMDSCNN, QMDSIR, WikiSum, DUC 2006, DUC 2007 |
 
 ### Question Answering
 
