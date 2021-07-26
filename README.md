@@ -51,30 +51,30 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datasets | 
 | -- | --- |
-| Backtranslation (Improving Neural Machine Translation Models with Monolingual Data, [ACL '16](https://www.aclweb.org/anthology/P16-1009.pdf)) | WMT '15 en-de, IWSLT ''15 en-tr |
+| Backtranslation (Improving Neural Machine Translation Models with Monolingual Data, [ACL '16](https://www.aclweb.org/anthology/P16-1009.pdf)) | WMT '15 en-de, IWSLT '15 en-tr |
+| Adapting Neural Machine Translation with Parallel Synthetic Data [(WMT '17)](https://www.aclweb.org/anthology/W17-4714/) | COMMON, 1 Billion Words, dev2013, XRCE, IT, E-Com| 
+| Data Augmentation for Low-Resource Neural Machine Translation [(ACL '17)](https://www.aclweb.org/anthology/P17-2090/) [code](https://github.com/marziehf/DataAugmentationNMT) | WMT '14/'15/'16 en-de/de-en| 
+| Synthetic Data for Neural Machine Translation of Spoken-Dialects [(arxiv '17)](https://arxiv.org/abs/1707.00079) | LDC2012T09, OpenSubtitles-2013| 
+| Multi-Source Neural Machine Translation with Data Augmentation [(IWSLT '18)](https://arxiv.org/abs/1810.06826) | TED Talks| 
 | SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1100/) | IWSLT '15 en-vi, IWSLT '16 de-en, WMT '15 en-de |
+| Generalizing Back-Translation in Neural Machine Translation [(WMT '19)](https://www.aclweb.org/anthology/W19-5205/) | ed NewsCrawl2, WMT'18 de-en| 
+| Neural Fuzzy Repair: Integrating Fuzzy Matches into Neural Machine Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1175/) | DGT-TM en-ml/en-hu| 
+| Augmenting Neural Machine Translation with Knowledge Graphs [(arxiv '19)](https://arxiv.org/abs/1902.08816) | WMT '14 -'18| 
+| Generalized Data Augmentation for Low-Resource Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1579/) [code](https://github.com/xiamengzhou/DataAugForLRL)| ENG-HRL-LRL, HRL-LRL | 
+| Improving Robustness of Machine Translation with Synthetic Noise [(NAACL '19)](https://www.aclweb.org/anthology/N19-1190/) [code](https://github.com/MysteryVaibhav/robust_mtnt)| EP, TED, MTNT en-fr en-jpn| 
 | Soft Contextual Data Augmentation for Neural Machine Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1555/) [code](https://github.com/teslacool/SCA) | IWSLT '14 de/es/he-en, WMT '14 en-de |
+| Data augmentation using back-translation for context-aware neural machine translation [(DiscoMT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-6504/) [code](https://github.com/sugi-a/discomt2019) | IWSLT'17 en-ja/en-fr, BookCorpus, Europarl v7, National Diet of Japan | 
+| Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back-Translation [(W-NUT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5543/) | WMT'15/'19 en/fr, MTNT, IWSLT'17, MuST-C | 
+| Data augmentation for pipeline-based speech translation [(Baltic HLT '20)](https://hal.inria.fr/hal-02907053) | WMT '17 | 
+| Lexical-Constraint-Aware Neural Machine Translation via Data Augmentation [(IJCAI '20)](https://www.ijcai.org/proceedings/2020/496) [code](https://github.com/ghchen18/leca) | WMT '16 de-en, NIST zh-en |
+| A Diverse Data Augmentation Strategy for Low-Resource Neural Machine Translation [(Information '20)](https://www.mdpi.com/2078-2489/11/5/255) | IWSLT '14 en-de | 
+| Syntax-aware Data Augmentation for Neural Machine Translation [(arxiv '20)](https://arxiv.org/abs/2004.14200) | WMT '14 en-de, IWSLT '14 de-en | 
 | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | IWSLT'14 | 
-| Data Augmentation for Low-Resource Neural Machine Translation [(ACL '17)](https://www.aclweb.org/anthology/P17-2090/) | TODO | 
-| Generalized Data Augmentation for Low-Resource Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1579/) | TODO | 
-| Data diversification: A simple strategy for neural machine translation [(NeurIPS '20)](https://proceedings.neurips.cc/paper/2020/file/7221e5c8ec6b08ef6d3f9ff3ce6eb1d1-Paper.pdf) | TODO | 
-| Improving Robustness of Machine Translation with Synthetic Noise [(NAACL '19)](https://www.aclweb.org/anthology/N19-1190/) | TODO | 
-| Synthetic Data for Neural Machine Translation of Spoken-Dialects [(arxiv '17)](https://arxiv.org/abs/1707.00079) | TODO | 
-| AdvAug: Robust Adversarial Augmentation for Neural Machine Translation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.529/) | TODO | 
-| Generalizing Back-Translation in Neural Machine Translation [(WMT '19)](https://www.aclweb.org/anthology/W19-5205/) | TODO | 
-| Neural Fuzzy Repair: Integrating Fuzzy Matches into Neural Machine Translation [(ACL '19)](https://www.aclweb.org/anthology/P19-1175/) | TODO | 
-| Augmenting Neural Machine Translation with Knowledge Graphs [(arxiv '19)](https://arxiv.org/abs/1902.08816) | TODO | 
-| Dictionary-based Data Augmentation for Cross-Domain Neural Machine Translation [(arxiv '20)](https://arxiv.org/abs/2004.02577) | TODO | 
-| Sentence Boundary Augmentation For Neural Machine Translation Robustness [(arxiv '20)](https://arxiv.org/abs/2010.11132) | TODO | 
-| Multi-Source Neural Machine Translation with Data Augmentation [(IWSLT '18)](https://arxiv.org/abs/1810.06826) | TODO | 
-| Data augmentation using back-translation for context-aware neural machine translation [(DiscoMT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-6504/) | TODO | 
-| Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back-Translation [(W-NUT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5543/) | TODO | 
-| Adapting Neural Machine Translation with Parallel Synthetic Data [(WMT '17)](https://www.aclweb.org/anthology/W17-4714/) | TODO | 
-| Data augmentation for pipeline-based speech translation [(Baltic HLT '20)](https://hal.inria.fr/hal-02907053) | TODO | 
-| Valar nmt : Vastly lacking resources neural machine translation [(Stanford CS224N)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15811193.pdf) | TODO | 
-| Lexical-Constraint-Aware Neural Machine Translation via Data Augmentation [(IJCAI '20)](https://www.ijcai.org/proceedings/2020/496) | TODO | 
-| A Diverse Data Augmentation Strategy for Low-Resource Neural Machine Translation [(Information '20)](https://www.mdpi.com/2078-2489/11/5/255) | TODO | 
-| Syntax-aware Data Augmentation for Neural Machine Translation [(arxiv '20)](https://arxiv.org/abs/2004.14200) | TODO | 
+| Data diversification: A simple strategy for neural machine translation [(NeurIPS '20)](https://proceedings.neurips.cc/paper/2020/file/7221e5c8ec6b08ef6d3f9ff3ce6eb1d1-Paper.pdf) [code](https://github.com/nxphi47/data_diversification) | WMT '14 en-de/en-fr, IWSLT '13/'14/'15 en-de/de-en/en-fr |
+| AdvAug: Robust Adversarial Augmentation for Neural Machine Translation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.529/) | NIST zh-en, WMT '14 en-de| 
+| Dictionary-based Data Augmentation for Cross-Domain Neural Machine Translation [(arxiv '20)](https://arxiv.org/abs/2004.02577) | WMT '14/'19 | 
+| Sentence Boundary Augmentation For Neural Machine Translation Robustness [(arxiv '20)](https://arxiv.org/abs/2010.11132) | IWSLT '14/'15/'18 en-de, WMT '18 en-de | 
+| Valar nmt : Vastly lacking resources neural machine translation [(Stanford CS224N)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports/custom/15811193.pdf) | Bible, Misc, Europarl v8, Newstest '18 | 
 
 
 ### Summarization
