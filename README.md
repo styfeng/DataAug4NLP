@@ -122,21 +122,22 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Grammatical Error Correction
 | Paper | Datasets | 
 | -- | --- |
-| Using  Wikipedia  Edits  in  Low Resource Grammatical Error Correction. [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
-| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 , JFLEG  |
-| Controllable Data Synthesis Method for Grammatical Error Correction [(arxiv '19)](https://arxiv.org/abs/1909.13302) | TODO |
-| Neural Grammatical Error Correction  Systems  with  Unsupervised  Pre-training on Synthetic Data. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4427) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task) |
-| A neural grammatical error cor-rection  system  built  on  better  pre-training  and  se-quential  transfer  learning. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4423) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task), Gutenberg, Tatoeba, WikiText-103 (Pretraining) |
-| Improving  Grammatical  Error  Correction with  Data  Augmentation  by  Editing  Latent  Representation [(COLING'20)](https://doi.org/10.18653/v1/2020.coling-main.200) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task)  |
-| Noising and Denoising Natural Language:  Diverse Backtranslation for Grammar  Correction. [(NAACL'18)](https://www.aclweb.org/anthology/N18-1057/)  | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG |
-| Corpora Generation for Grammatical Error Correction [(NAACL'19)](https://doi.org/10.18653/v1/N19-1333)  | CoNLL-2014, JFLEG, Lang-8 |
-| A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction [(BEA @ ACL '20)](https://www.aclweb.org/anthology/2020.bea-1.21/)  | TODO |
-| GenERRate: Generating Errors for Use in Grammatical Error Detection [(BEA '09)](https://www.aclweb.org/anthology/W09-2112/)  | TODO |
-| A syntactic rule-based framework for parallel data synthesis in Japanese GEC [(MIT Thesis '20)](https://dspace.mit.edu/handle/1721.1/127416)  | TODO |
-| Artificial error generation for translation-based grammatical error correction [(University of Cambridge Technical Report)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-895.pdf)  | TODO |
-| Erroneous data generation for Grammatical Error Correction [(BEA @ ACL '19)](https://www.aclweb.org/anthology/W19-4415/)  | TODO |
-| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002)  | TODO |
-| Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners [(IJCNLP '11)](https://www.aclweb.org/anthology/I11-1017/)  | TODO |
+| GenERRate: Generating Errors for Use in Grammatical Error Detection [(BEA '09)](https://www.aclweb.org/anthology/W09-2112/) | Ungram-BNC |
+| Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners [(IJCNLP '11)](https://www.aclweb.org/anthology/I11-1017/) [code](https://github.com/google-research-datasets/clang8) | Lang-8 |
+| Artificial error generation for translation-based grammatical error correction [(University of Cambridge Technical Report '16)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-895.pdf)  | NUCLE,EVP,CoNLL-2013 Test,NUCLE+EVP,ED,MORPH,POS,SD,WSD,NUCLE+ED,NUCLE+MORPH,NUCLE+POS,NUCLE+SC,NUCLE+WSD,CLC-train,FCE-test,EW-0-LEX-O,EW-1-LEX-O,EW-2-LEX-O,SW-0-LEX-O,SW-1-LEX-O,SW-2-LEX-O |
+| Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction. [(NAACL'18)](https://www.aclweb.org/anthology/N18-1057/) | Lang-8, CoNLL-2014, CoNLL-2013, JFLEG | 
+| Using Wikipedia Edits in Low Resource Grammatical Error Correction. [(WNUT @ EMNLP '18)](https://doi.org/10.18653/v1/W18-6111) | Falko-MERLIN GEC Corpus |
+| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002) | CoNLL-2014 , JFLEG |
+| Controllable Data Synthesis Method for Grammatical Error Correction [(arxiv '19)](https://arxiv.org/abs/1909.13302) [code](https://github.com/marumalo/survey/issues/21) | NUCLE, Lang-8, One-Billion, CoNLL2013, CoNLL2014|
+| Neural Grammatical Error Correction Systems with Unsupervised Pre-training on Synthetic Data. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4427) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task) |
+| Corpora Generation for Grammatical Error Correction [(NAACL'19)](https://doi.org/10.18653/v1/N19-1333) | CoNLL-2014, JFLEG, Lang-8 |
+| Erroneous data generation for Grammatical Error Correction [(BEA @ ACL '19)](https://www.aclweb.org/anthology/W19-4415/) | Lang-8,n CoNLL, JFLEG, CoNLL-2014, ABCN, FCE |
+| Sequence-to-sequence Pre-training with Data Augmentation for Sentence Rewriting [(arxiv '19)](https://arxiv.org/abs/1909.06002) [code](https://github.com/marumalo/survey/issues/6) | GYAFC, WMT14, WMT18 |
+| A neural grammatical error correction  system  built  on  better  pre-training  and  sequential  transfer  learning. [(BEA @ ACL '19)](https://doi.org/10.18653/v1/W19-4423) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task), Gutenberg, Tatoeba, WikiText-103 (Pretraining) |
+| Improving Grammatical Error Correction with Data Augmentation by Editing Latent Representation [(COLING'20)](https://doi.org/10.18653/v1/2020.coling-main.200) | FCE, NUCLE, W&I+LOCNESS, Lang-8 (BEA @ ACL '19 Shared Task) |
+| A Comparative Study of Synthetic Data Generation Methods for Grammatical Error Correction [(BEA @ ACL '20)](https://www.aclweb.org/anthology/2020.bea-1.21/) | W&I+LOCNESS, FCE, News Crawl 2, W&I+L train, FCE-train, NUCLE, Lang-8, W&I+L dev, FCE-test, Tatoeba, WikiText-103 |
+| A syntactic rule-based framework for parallel data synthesis in Japanese GEC [(MIT Thesis '20)](https://dspace.mit.edu/handle/1721.1/127416) | Lang-8 |
+
 
 ### Generation
 
@@ -182,11 +183,11 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 ### Mitigating Bias
 | Paper | Datasets | 
 | -- | --- |
-| Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [(NAACL '18)](https://www.aclweb.org/anthology/N18-2003/) | TODO |
-| Gender Bias in Neural Natural Language Processing. [(Springer '20)](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14) | TODO |
-| Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [(ACL '19)](https://www.aclweb.org/anthology/P19-1161/) | TODO |
-| It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1530/) | TODO |
-| Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | TODO |
+| Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [(NAACL '18)](https://www.aclweb.org/anthology/N18-2003/) [code](https://github.com/uclanlp/corefBias) | WinoBias, OntoNotes|
+| Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [(ACL '19)](https://www.aclweb.org/anthology/P19-1161/) [code](https://github.com/rycolab/biasCDA) | TODO |
+| It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1530/) [code](https://github.com/rowanhm/counterfactual-data-substitution) | SSA, Stanford Large Movie Review, SimLex-999 |
+| Gender Bias in Neural Natural Language Processing. [(Springer '20)](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14 ) | Wikitext-2, CoNLL-2012 |
+| Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | SWAG, CoNLL2009, MultiNLI, HANS|
 
 ### Mitigating Class Imbalance
 | Paper | Datasets | 
@@ -210,7 +211,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datsets | 
 | -- | --- |
-| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | TODO |
+| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676.pdf) [code](https://github.com/jacobandreas/geca) | SCAN |
 | Sequence-Level Mixed Sample Data Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.447) [code](https://github.com/dguo98/seqmix) | IWSLT ’14, WMT ’14 | 
 
 ### Automated Augmentation
