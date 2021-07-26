@@ -84,18 +84,19 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Transforming Wikipedia into Augmented Data for Query-Focused Summarization [(arxiv '19)](https://arxiv.org/abs/1911.03324) | DUC |
 | Iterative Data Augmentation with Synthetic Data (Abstract Text Summarization: A Low Resource Challenge [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1616/) | Swisstext, commoncrawl | 
 | Improving Zero and Few-Shot Abstractive Summarization with Intermediate Fine-tuning and Data Augmentation [(NAACL '21)](https://arxiv.org/abs/2010.12836) | CNN-DailyMail | 
-| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) [code] (https://github.com/ramakanth-pasunuru/QmdsCnnIr) | QMDSCNN, QMDSIR, WikiSum, DUC 2006, DUC 2007 |
+| Data Augmentation for Abstractive Query-Focused Multi-Document Summarization [(AAAI '21)](https://arxiv.org/abs/2103.01863) [code](https://github.com/ramakanth-pasunuru/QmdsCnnIr) | QMDSCNN, QMDSIR, WikiSum, DUC 2006, DUC 2007 |
+
 
 ### Question Answering
 
 | Paper | Datasets | 
 | -- | --- |
-| An Exploration of Data Augmentation and Sampling Techniques for Domain-Agnostic Question Answering [(EMNLP '19 Workshop)](https://www.aclweb.org/anthology/D19-5829/) | MRQA| 
+| QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [(ICLR '18)](https://openreview.net/forum?id=B14TlG-RW) | SQuAD, TriviaQA |
+| An Exploration of Data Augmentation and Sampling Techniques for Domain-Agnostic Question Answering [(EMNLP '19 Workshop)](https://www.aclweb.org/anthology/D19-5829/) | MRQA | 
 | Data Augmentation for BERT Fine-Tuning in Open-Domain Question Answering [(arxiv '19)](https://arxiv.org/abs/1904.06652) | SQuAD, Trivia-QA, CMRC, DRCD | 
 | XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering [(arxiv '19)](https://openreview.net/forum?id=BJgAf6Etwr) | XNLI, SQuAD |
 | Synthetic Data Augmentation for Zero-Shot Cross-Lingual Question Answering [(arxiv '20)](https://arxiv.org/abs/2010.12643) | MLQA, XQuAD, SQuAD-it, PIAF | 
-| Logic-Guided Data Augmentation and Regularization for Consistent Question Answering [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.499/) [code](https://github.com/AkariAsai/logic_guided_qa) | WIQA, QuaRel, HotpotQA | 
-| QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension [(ICLR '18)](https://openreview.net/forum?id=B14TlG-RW) | TODO |
+| Logic-Guided Data Augmentation and Regularization for Consistent Question Answering [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.499/) [code](https://github.com/AkariAsai/logic_guided_qa) | WIQA, QuaRel, HotpotQA |
 
 
 ### Sequence Tagging
@@ -103,18 +104,19 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Paper | Datasets | 
 | -- | --- |
 | Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [(EMNLP '18)](https://www.aclweb.org/anthology/D18-1545.pdf) [code](https://github.com/gozdesahin/crop-rotate-augment) | universal dependencies project | 
-| DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.488/) | TODO |
-| An Analysis of Simple Data Augmentation for Named Entity Recognition [(COLING '20)](https://www.aclweb.org/anthology/2020.coling-main.343/) | TODO |
-| SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.691/) | TODO |
+| DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.488/) [code](https://github.com/ntunlp/daga) | CoNLL2002/2003 |
+| An Analysis of Simple Data Augmentation for Named Entity Recognition [(COLING '20)](https://www.aclweb.org/anthology/2020.coling-main.343/) | MaSciP, i2b2- 2010 |
+| SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.691/) [code](https://github.com/rz-zhang/SeqMix) | CoNLL-03, ACE05, Webpage |
+
 
 ### Parsing
 | Paper | Datasets | 
 | -- | --- |
-| Named Entity Recognition for Social Media Texts with Semantic Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.107/) | TODO |
-| Data Recombination for Neural Semantic Parsing [(ACL '16)](https://www.aclweb.org/anthology/P16-1002/) | TODO |
-| GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing [(ICLR '21)](https://openreview.net/forum?id=kyaIeYj4zZ) | TODO |
-| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676/) | TODO |
-| A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1102/) | TODO |
+| Data Recombination for Neural Semantic Parsing [(ACL '16)](https://www.aclweb.org/anthology/P16-1002/) [code](https://github.com/dongpobeyond/Seq2Act) | GeoQuery, ATIS, Overnight |
+| A systematic comparison of methods for low-resource dependency parsing on genuinely low-resource languages [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1102/) | Universal Dependencies treebanks version 2.2 |
+| Named Entity Recognition for Social Media Texts with Semantic Augmentation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.107/)[code](https://github.com/cuhksz-nlp/SANER) | WNUT16, WNUT17, Weibo |
+| Good-Enough Compositional Data Augmentation [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.676/) [code](https://github.com/jacobandreas/geca) | SCAN |
+| GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing [(ICLR '21)](https://openreview.net/forum?id=kyaIeYj4zZ) | SPIDER, WIKISQL, WIKITABLEQUESTIONS |
 
 
 ### Grammatical Error Correction
@@ -140,11 +142,12 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datasets | 
 | -- | --- |
-| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | Yelp | 
-| Findings of the Third Workshop on Neural Generation and Translation [(WNGT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5601/) | TODO | 
-| Denoising Pre-Training and Data Augmentation Strategies for Enhanced RDF Verbalization with Transformers [(WebNLG+ @ INLG '20)](https://www.aclweb.org/anthology/2020.webnlg-1.9/) | TODO | 
 | TNT-NLG, System 2: Data repetition and meaning representation manipulation to improve neural generation [(E2E NLG Challenge System Descriptions)](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-TNT_NLG2.pdf) | TODO | 
-| A Good Sample is Hard to Find: Noise Injection Sampling and Self-Training for Neural Language Generation Models [(INLG '19)](https://www.aclweb.org/anthology/W19-8672/) | TODO | 
+| Findings of the Third Workshop on Neural Generation and Translation [(WNGT @ EMNLP '19)](https://www.aclweb.org/anthology/D19-5601/) | RotoWire English-German | 
+| A Good Sample is Hard to Find: Noise Injection Sampling and Self-Training for Neural Language Generation Models [(INLG '19)](https://www.aclweb.org/anthology/W19-8672/) [code](https://github.com/kedz/noiseylg) | E2E Challenge Dataset, Laptops, TVs | 
+| GenAug: Data Augmentation for Finetuning Text Generators [(DeeLIO @ EMNLP '20)](https://www.aclweb.org/anthology/2020.deelio-1.4/) [code](https://github.com/styfeng/GenAug) | Yelp | 
+| Denoising Pre-Training and Data Augmentation Strategies for Enhanced RDF Verbalization with Transformers [(WebNLG+ @ INLG '20)](https://www.aclweb.org/anthology/2020.webnlg-1.9/) | WebNLG |
+
 
 ### Dialogue
 | Paper | Datasets | 
