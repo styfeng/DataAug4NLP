@@ -203,11 +203,12 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 
 | Paper | Datsets | 
 | -- | --- |
-| Adversarial Example Generation with Syntactically Controlled Paraphrase Networks [(NAACL '18)](https://www.aclweb.org/anthology/N18-1170/) | SST, SICK | 
-| Certified Robustness to Adversarial Word Substitutions [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1423/) | TODO | 
-| PAWS: Paraphrase Adversaries from Word Scrambling [(NAACL '19)](https://www.aclweb.org/anthology/N19-1131/) | TODO | 
-| AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples [(ACL '18)](https://www.aclweb.org/anthology/P18-1225/) | TODO | 
-| Breaking NLI Systems with Sentences that Require Simple Lexical Inferences [(ACL '18)](https://www.aclweb.org/anthology/P18-2103/) | TODO |
+| Adversarial Example Generation with Syntactically Controlled Paraphrase Networks [(NAACL '18)](https://www.aclweb.org/anthology/N18-1170/) [code](https://github.com/miyyer/scpn)| SST, SICK | 
+| AdvEntuRe: Adversarial Training for Textual Entailment with Knowledge-Guided Examples [(ACL '18)](https://www.aclweb.org/anthology/P18-1225/) [code](https://github.com/dykang/adventure)| WordNet, PPDB, SICK, SNLI, SciTail | 
+| Breaking NLI Systems with Sentences that Require Simple Lexical Inferences [(ACL '18)](https://www.aclweb.org/anthology/P18-2103/) | SNLI, SciTail, MultiNLI |
+| Certified Robustness to Adversarial Word Substitutions [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1423/) [code](https://github.com/robinjia/certified-word-sub)| IMDB, SNLI | 
+| PAWS: Paraphrase Adversaries from Word Scrambling [(NAACL '19)](https://www.aclweb.org/anthology/N19-1131/) [code](https://github.com/google-research-datasets/paws)| PAWS (QQP + Wikipedia) | 
+
 
 ### Compositionality
 
