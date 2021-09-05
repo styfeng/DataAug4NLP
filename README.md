@@ -167,6 +167,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Data Augmentation for Copy-Mechanism in Dialogue State Tracking [(arxiv '20)](https://arxiv.org/abs/2002.09634) | WoZ, DSTC2, Multi |
 | Simple is Better! Lightweight Data Augmentation for Low Resource Slot Filling and Intent Classification [(PACLIC '20)](https://www.aclweb.org/anthology/2020.paclic-1.20/) [code](https://github.com/slouvan/saug) | ATIS, SNIPS, FB |
 | Conversation Graph: Data Augmentation, Training, and Evaluation for Non-Deterministic Dialogue Management [(TACL '21)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00352/97777/Conversation-Graph-Data-Augmentation-Training-and) | M2M, MultiWOZ |
+| Improving Automated Evaluation of Open Domain Dialog via Diverse Reference Augmentation [(ACL '21 Findings)](https://aclanthology.org/2021.findings-acl.357/) | DailyDialog |
 
 ### Multimodal
 | Paper | Datasets | 
