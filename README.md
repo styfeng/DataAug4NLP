@@ -48,6 +48,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Text Augmentation in a Multi-Task View [(EACL '21)](https://www.aclweb.org/anthology/2021.eacl-main.252/) | SST2, TREC, SUBJ | 
 | GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation [(arXiv '21)](https://arxiv.org/abs/2104.08826) | SST2, CR, TREC, SUBJ, MPQA, CoLA |
 | Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552) [code](https://github.com/jasonwei20/triplet-loss) | HUFF, COV-Q, AMZN, FEWREL | 
+| Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | IMDB, SST2, SST5, TREC, YELP2, YELP5 |
 
 
 ### Translation
@@ -210,6 +211,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Breaking NLI Systems with Sentences that Require Simple Lexical Inferences [(ACL '18)](https://www.aclweb.org/anthology/P18-2103/) | SNLI, SciTail, MultiNLI |
 | Certified Robustness to Adversarial Word Substitutions [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1423/) [code](https://github.com/robinjia/certified-word-sub)| IMDB, SNLI | 
 | PAWS: Paraphrase Adversaries from Word Scrambling [(NAACL '19)](https://www.aclweb.org/anthology/N19-1131/) [code](https://github.com/google-research-datasets/paws)| PAWS (QQP + Wikipedia) | 
+| Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency [(ACL '19)](https://aclanthology.org/P19-1103.pdf) [code](https://github.com/JHL-HUST/PWWS) | IMDB, AG’s News, Yahoo Answers |
 
 
 ### Compositionality
@@ -225,6 +227,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | ------------------------------------------------------------ | --------------------------- |
 | Learning Data Manipulation for Augmentation and Weighting [(NeurIPS '19)](https://papers.nips.cc/paper/2019/file/671f0311e2754fcdd37f70a8550379bc-Paper.pdf) [code](https://github.com/tanyuqian/learning-data-manipulation) | SST, IMDB, TREC, CIFAR-10   |
 | Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.564.pdf) | DailyDialog,  OpenSubtitles |
+| Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | IMDB, SST2, SST5, TREC, YELP2, YELP5 |
 
 
 ### Popular Resources
