@@ -211,7 +211,7 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Breaking NLI Systems with Sentences that Require Simple Lexical Inferences [(ACL '18)](https://www.aclweb.org/anthology/P18-2103/) | SNLI, SciTail, MultiNLI |
 | Certified Robustness to Adversarial Word Substitutions [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1423/) [code](https://github.com/robinjia/certified-word-sub)| IMDB, SNLI | 
 | PAWS: Paraphrase Adversaries from Word Scrambling [(NAACL '19)](https://www.aclweb.org/anthology/N19-1131/) [code](https://github.com/google-research-datasets/paws)| PAWS (QQP + Wikipedia) | 
-| Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency [(ACL '19)](https://aclanthology.org/P19-1103.pdf) [code](https://github.com/JHL-HUST/PWWS) | IMDB, AG’s News, Yahoo Answers |
+| Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency [(ACL '19)](https://aclanthology.org/P19-1103/) [code](https://github.com/JHL-HUST/PWWS) | IMDB, AG’s News, Yahoo Answers |
 
 
 ### Compositionality
