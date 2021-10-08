@@ -5,13 +5,25 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 
 We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [mitigating bias](#mitigating-bias), [mitigating class imbalance](#mitigating-class-imbalance), [adversarial examples](#adversarial-examples), [compositionality](#compositionality), and [automated augmentation](#automated-augmentation).
 
-This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](http://arxiv.org/abs/2105.03075). You can cite it as follows:
+This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](https://aclanthology.org/2021.findings-acl.84/). You can cite it as follows:
 ```
-@article{feng2021survey,
-  title={A Survey of Data Augmentation Approaches for NLP},
-  author={Feng, Steven Y and Gangal, Varun and Wei, Jason and Chandar, Sarath and Vosoughi, Soroush and Mitamura, Teruko and Hovy, Eduard},
-  journal={Findings of ACL},
-  year={2021}
+@inproceedings{feng-etal-2021-survey,
+    title = "A Survey of Data Augmentation Approaches for {NLP}",
+    author = "Feng, Steven Y.  and
+      Gangal, Varun  and
+      Wei, Jason  and
+      Chandar, Sarath  and
+      Vosoughi, Soroush  and
+      Mitamura, Teruko  and
+      Hovy, Eduard",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.84",
+    doi = "10.18653/v1/2021.findings-acl.84",
+    pages = "968--988",
 }
 ```
 Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">Steven Y. Feng</a>,
