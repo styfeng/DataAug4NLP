@@ -35,10 +35,11 @@ Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">S
 			  <a href="https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en">Eduard Hovy</a>
 
 Special thanks to Ryan Shentu, Fiona Feng, Karen Liu, Emily Nie, Tanya Lu, and Bonnie Ma for helping out with this repo.
-
 Note: WIP. More papers will be added from our survey paper to this repo soon.
-
 Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
+
+Also, check out our **talk for Google Research** (Steven Feng and Varun Gangal) [here](https://www.youtube.com/watch?v=kNBVesKUZCk&ab_channel=StevenFeng), and our **podcast episode** (Steven Feng and Eduard Hovy) [here](https://www.youtube.com/watch?v=qmqyT_97Poc) and [here](https://thedataexchange.media/data-augmentation-in-natural-language-processing/).
+
 
 ### Text Classification
 | Paper | Datasets | 
