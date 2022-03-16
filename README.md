@@ -205,10 +205,10 @@ Also, check out our **talk for Google Research** (Steven Feng and Varun Gangal) 
 | -- | --- |
 | Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods. [(NAACL '18)](https://www.aclweb.org/anthology/N18-2003/) [code](https://github.com/uclanlp/corefBias) | WinoBias, OntoNotes|
 | Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology [(ACL '19)](https://www.aclweb.org/anthology/P19-1161/) [code](https://github.com/rycolab/biasCDA) | TODO |
+| CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech [(ACL '19)](https://aclanthology.org/P19-1271.pdf) [Dataset](https://github.com/marcoguerini/CONAN)| New Dataset Created|
 | It’s All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution [(EMNLP '19)](https://www.aclweb.org/anthology/D19-1530/) [code](https://github.com/rowanhm/counterfactual-data-substitution) | SSA, Stanford Large Movie Review, SimLex-999 |
 | Gender Bias in Neural Natural Language Processing. [(Springer '20)](https://link.springer.com/chapter/10.1007%2F978-3-030-62077-6_14 ) | Wikitext-2, CoNLL-2012 |
 | Improving Robustness by Augmenting Training Sentences with Predicate-Argument Structures [(arxiv '20)](https://arxiv.org/abs/2010.12510) | SWAG, CoNLL2009, MultiNLI, HANS|
-| CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech [(ACL '19)](https://aclanthology.org/P19-1271.pdf) [Dataset](https://github.com/marcoguerini/CONAN)| New Dataset Created|
 
 ### Mitigating Class Imbalance
 | Paper | Datasets | 
