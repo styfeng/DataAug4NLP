@@ -5,13 +5,25 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 
 We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [mitigating bias](#mitigating-bias), [mitigating class imbalance](#mitigating-class-imbalance), [adversarial examples](#adversarial-examples), [compositionality](#compositionality), and [automated augmentation](#automated-augmentation).
 
-This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](http://arxiv.org/abs/2105.03075). You can cite it as follows:
+This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](https://aclanthology.org/2021.findings-acl.84/). You can cite it as follows:
 ```
-@article{feng2021survey,
-  title={A Survey of Data Augmentation Approaches for NLP},
-  author={Feng, Steven Y and Gangal, Varun and Wei, Jason and Chandar, Sarath and Vosoughi, Soroush and Mitamura, Teruko and Hovy, Eduard},
-  journal={Findings of ACL},
-  year={2021}
+@inproceedings{feng-etal-2021-survey,
+    title = "A Survey of Data Augmentation Approaches for {NLP}",
+    author = "Feng, Steven Y.  and
+      Gangal, Varun  and
+      Wei, Jason  and
+      Chandar, Sarath  and
+      Vosoughi, Soroush  and
+      Mitamura, Teruko  and
+      Hovy, Eduard",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.84",
+    doi = "10.18653/v1/2021.findings-acl.84",
+    pages = "968--988",
 }
 ```
 Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">Steven Y. Feng</a>,
@@ -23,10 +35,11 @@ Authors: <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">S
 			  <a href="https://scholar.google.com/citations?user=PUFxrroAAAAJ&hl=en">Eduard Hovy</a>
 
 Special thanks to Ryan Shentu, Fiona Feng, Karen Liu, Emily Nie, Tanya Lu, and Bonnie Ma for helping out with this repo.
-
 Note: WIP. More papers will be added from our survey paper to this repo soon.
-
 Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
+
+Also, check out our **talk for Google Research** (Steven Feng and Varun Gangal) [here](https://www.youtube.com/watch?v=kNBVesKUZCk&ab_channel=StevenFeng), and our **podcast episode** (Steven Feng and Eduard Hovy) [here](https://www.youtube.com/watch?v=qmqyT_97Poc) and [here](https://thedataexchange.media/data-augmentation-in-natural-language-processing/).
+
 
 ### Text Classification
 | Paper | Datasets | 
@@ -38,10 +51,12 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 | Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations [(NAACL '18)](https://www.aclweb.org/anthology/N18-2072.pdf) [code](https://github.com/pfnet-research/contextual_augmentation) | SST, SUBJ, MRQA, RT, TREC | 
 | Variational Pretraining for Semi-supervised Text Classification [(ACL '19)](https://www.aclweb.org/anthology/P19-1590.pdf) [code](http://github.com/allenai/vampire) | IMDB, AG News, Yahoo, hatespeech | 
 | EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [(EMNLP '19)](http://dx.doi.org/10.18653/v1/D19-1670) [code](https://github.com/jasonwei20/eda_nlp) | SST, CR, SUBJ, TREC, PC |
+| A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification [(DeepLo @ EMNLP '19)](https://arxiv.org/abs/1910.04176) | SNIPS |
 | Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification [(AAAI '20)](https://doi.org/10.1609/aaai.v34i04.5822) | TREC, SST, Subj, MR |
 | MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.194/) [code](https://github.com/GT-SALT/MixText) | AG News, DBpedia, Yahoo, IMDb | 
 | Unsupervised Data Augmentation for Consistency Training [(NeurIPS '20)](https://papers.nips.cc/paper/2020/hash/44feb0096faa8326192570788b38c1d1-Abstract.html) [code](https://papers.nips.cc/paper/2020/hash/44feb0096faa8326192570788b38c1d1-Abstract.html) | Yelp, IMDb, amazon, DBpedia | 
 | Not Enough Data? Deep Learning to the Rescue! [(AAAI '20)](https://arxiv.org/abs/1911.03118) | ATIS, TREC, WVA | 
+| Data Augmentation using Pre-trained Transformer Models [LifeLongNLP @ AACL '20](https://arxiv.org/abs/2003.02245), [code](https://github.com/varunkumar-dev/TransformersDataAugmentation) |SNIPS, TREC, SST2 |
 | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | IWSLT'14 | 
 | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.726/) | ICWSM 20’ Data Challenge, SemEval '17 sentiment analysis, SemEval '18 irony |
 | Textual Data Augmentation for Efficient Active Learning on Tiny Datasets [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.600/) | SST2, TREC |
@@ -236,3 +251,4 @@ Inquiries should be directed to stevenyfeng@gmail.com or by opening an issue her
 - [nlpaug](https://github.com/makcedward/nlpaug)
 - [TextAttack](https://github.com/QData/TextAttack)
 - [AugLy](https://github.com/facebookresearch/AugLy)
+- [NL-Augmenter 🦎 → 🐍](https://github.com/GEM-benchmark/NL-Augmenter/)
