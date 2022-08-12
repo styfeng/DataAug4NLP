@@ -6,7 +6,6 @@ If you'd like to add your paper, do not email us. Instead, read the protocol for
 We group the papers by [text classification](#text-classification), [translation](#translation), [summarization](#summarization), [question-answering](#question-answering), [sequence tagging](#sequence-tagging), [parsing](#parsing), [grammatical-error-correction](#grammatical-error-correction), [generation](#generation), [dialogue](#dialogue), [multimodal](#multimodal), [mitigating bias](#mitigating-bias), [mitigating class imbalance](#mitigating-class-imbalance), [adversarial examples](#adversarial-examples), [compositionality](#compositionality), and [automated augmentation](#automated-augmentation).
 
 This repository is based on our paper, ["A survey of data augmentation approaches in NLP (Findings of ACL '21)"](https://aclanthology.org/2021.findings-acl.84/). You can cite it as follows:
-```
 @inproceedings{feng-etal-2021-survey,
     title = "A Survey of Data Augmentation Approaches for {NLP}",
     author = "Feng, Steven Y.  and
@@ -64,7 +63,7 @@ Also, check out our **talk for Google Research** (Steven Feng and Varun Gangal) 
 | GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation [(arXiv '21)](https://arxiv.org/abs/2104.08826) | SST2, CR, TREC, SUBJ, MPQA, CoLA |
 | Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552) [code](https://github.com/jasonwei20/triplet-loss) | HUFF, COV-Q, AMZN, FEWREL | 
 | Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | IMDB, SST2, SST5, TREC, YELP2, YELP5 |
-
+| AEDA: An Easier Data Augmentation Technique for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2108.13230) [code](https://github.com/akkarimi/aeda_nlp) | SST, CR, SUBJ, TREC, PC |
 
 ### Translation
 
