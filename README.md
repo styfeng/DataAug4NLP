@@ -64,7 +64,7 @@ Also, check out our **talk for Google Research** (Steven Feng and Varun Gangal) 
 | GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation [(arXiv '21)](https://arxiv.org/abs/2104.08826) | SST2, CR, TREC, SUBJ, MPQA, CoLA |
 | Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552) [code](https://github.com/jasonwei20/triplet-loss) | HUFF, COV-Q, AMZN, FEWREL | 
 | Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | IMDB, SST2, SST5, TREC, YELP2, YELP5 |
-
+| AEDA: An Easier Data Augmentation Technique for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2108.13230) [code](https://github.com/akkarimi/aeda_nlp) | SST, CR, SUBJ, TREC, PC |
 
 ### Translation
 
